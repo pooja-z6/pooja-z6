@@ -1,4 +1,4 @@
-Copy code
+
 <h1 align="center">Hi 👋, I'm Pooja S</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
